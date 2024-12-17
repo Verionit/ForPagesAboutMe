@@ -9,4 +9,4 @@
 
 Full site is available on [https://3dslide.usluga.me](https://3dslide.usluga.me/)
 
-![SomePortrait](https://github.com/Verionit/ForPagesAboutMe/blob/main/orig.jpeg)
+![SomePortrait](orig.jpeg)
