@@ -7,6 +7,6 @@
 - 💞️ I’m looking to collaborate on programming practice
 - 📫 How to reach me: ninznak@me.com
 
-Full site is available on https://3dslide.usluga.me/
+Full site is available on [https://3dslide.usluga.me](https://3dslide.usluga.me/)
 
 ![SomePortrait](https://github.com/Verionit/ForPagesAboutMe/blob/main/orig.jpeg)
